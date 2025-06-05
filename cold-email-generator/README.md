@@ -5,7 +5,7 @@ Cold email generator for services company using groq, langchain and streamlit. I
 
 
 ## Architecture Diagram
-![img.png](imgs/architecture.png)
+![img.png](imgs/diagram.png)
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
